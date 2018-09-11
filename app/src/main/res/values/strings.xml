@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">AlbumViewer</string>
+    <string-array name="album_names">
+        <item>In The Lonely Hour</item>
+        <item>Four</item>
+        <item>TRAPSOUL</item>
+        <item>The Epic</item>
+        <item>Somewhere In Between</item>
+        <item>Corinne Bailey Rae</item>
+    </string-array>
+
+    <string-array name="artist_names">
+        <item>Sam Smith</item>
+        <item>Beyonce Knowles</item>
+        <item>Bryson Tiller</item>
+        <item>Kamasi Washington</item>
+        <item>Braxton Cook</item>
+        <item>Corinne Bailey Rae</item>
+    </string-array>
+
+    <string-array name="inthelonelyhour">
+        <item>Money On My Mind</item>
+        <item>Good Thing</item>
+        <item>Stay With Me</item>
+        <item>Leave Your Lover</item>
+        <item>Im Not The Only One</item>
+        <item>Ive Told You Now</item>
+        <item>Like I Can</item>
+        <item>Life Support</item>
+        <item>Not In That Way</item>
+        <item>Lay Me Down</item>
+        <item>Restart</item>
+        <item>Latch</item>
+        <item>La La La</item>
+        <item>Make It To Me</item>
+        <item>Drowning Shadows</item>
+        <item>Love Is A Losing Game</item>
+        <item>Nirvana</item>
+        <item>How Will I Know</item>
+        <item>Omen</item>
+    </string-array>
+
+    <string-array name="four">
+        <item>Love on Top</item>
+        <item>Party</item>
+        <item>Schoolin Life</item>
+        <item>Countdown</item>
+        <item>I Miss You</item>
+        <item>Dance For You</item>
+        <item>I Care</item>
+        <item>Rather Die Young</item>
+        <item>1+1</item>
+        <item>End Of Time</item>
+        <item>RunThe World (Girls)</item>
+        <item>Best Thing I Never Had</item>
+        <item>Start Over</item>
+        <item>I Was Here</item>
+    </string-array>
+
+    <string-array name="trapsoul">
+        <item>Intro (Difference)</item>
+        <item>Let Em' Know</item>
+        <item>Exchange</item>
+        <item>For However Long</item>
+        <item>Don't</item>
+        <item>Open Interlude</item>
+        <item>Ten Nine Fourteen</item>
+        <item>The Sequence</item>
+        <item>Rambo</item>
+        <item>502 Come Up</item>
+        <item>Sorry Not Sorry</item>
+        <item>Been That Way</item>
+        <item>Overtime</item>
+        <item>Right My Wrongs</item>
+    </string-array>
+
+    <string-array name="theepic">
+        <item>Change of the Gaurd</item>
+        <item>Askim</item>
+        <item>Isabelle</item>
+        <item>Final Thought</item>
+        <item>The Next Step</item>
+        <item>The Rhythm Changes</item>
+        <item>Miss Understanding</item>
+        <item>Leroy and Lanisha</item>
+        <item>Re Run</item>
+        <item>Seven Prayers</item>
+        <item>Henrietta Our Hero</item>
+        <item>The Magnificent 7</item>
+        <item>Re Run Home</item>
+        <item>Cherokee</item>
+        <item>Clair de Lune</item>
+        <item>Malcom's Theme</item>
+        <item>The Message</item>
+    </string-array>
+
+    <string-array name="somewhereinbetween">
+        <item>Millenial Music (Intro)</item>
+        <item>You're the One</item>
+        <item>FJYD</item>
+        <item>I Can't</item>
+        <item>Hymn (For Trayvon)</item>
+        <item>Until</item>
+        <item>Mathis' Tune (Interlude)</item>
+        <item>Somewhere in Between</item>
+        <item>Run Away</item>
+        <item>Pariah</item>
+        <item>Never Thought</item>
+        <item>The Gospel</item>
+    </string-array>
+
+    <string-array name="corinnebaileyrae">
+        <item>Like a Star</item>
+        <item>Enchantment</item>
+        <item>Put Your Records On</item>
+        <item>Till It Happens To You</item>
+        <item>Trouble Sleeping</item>
+        <item>Call Me When You Get This</item>
+        <item>Choux Pastry Heart</item>
+        <item>Breathless</item>
+        <item>I'd Like To</item>
+        <item>Butterfly</item>
+        <item>Seasons Change</item>
+        <item>Since I've Been Loving You</item>
+        <item>Emeraldine</item>
+        <item>Venus As A Boy - Q Covermount</item>
+        <item>Another Rainy Day</item>
+        <item>Dreaming</item>
+    </string-array>
+
+</resources>
